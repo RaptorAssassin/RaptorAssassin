@@ -2,8 +2,14 @@
 
 I'm a 15 year old student from Germany and always passionate to learn and improve my skills.
 
-##Current Tech Stack##
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&theme=dark)
+##Current Tech Stack
+<p align="center">
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&theme=dark)
+</p>
 
-##Learning right now###
-![My Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark)
+
+##Learning right now
+<p align="center">
+  ![My Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark)
+</p>
+
