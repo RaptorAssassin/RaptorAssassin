@@ -4,7 +4,7 @@ I'm a 15 year old student from Germany and always passionate to learn and improv
 
 ## Current Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,unreal,robloxstudio&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,unreal&theme=dark">
 </p>
 
 ## Learning right now
