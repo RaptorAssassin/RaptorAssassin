@@ -14,6 +14,7 @@ I'm a 15 year old student from Germany and always passionate to learn and improv
 
 ## Socials
 <p align="left">
+  <a href="https://www.linkedin.com/in/karl-albrecht/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a> &nbsp;
   <a href="https://discord.com/users/990298633339555860"><img src="https://skillicons.dev/icons?i=discord&theme=dark"></a> &nbsp;
   <a href="https://x.com/Raptor_UEFN"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"></a>
 </p>
