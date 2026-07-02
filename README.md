@@ -2,6 +2,8 @@
 
 I'm a 15 year old student from Germany and always passionate to learn and improve my skills.
 
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=23296&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ## Current Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,unreal&theme=dark">
