@@ -1,6 +1,6 @@
 ## Hi there, I'm Raptor!
 
-I'm a 15 year old student from Germany doing fullstack web development.
+I'm a 15 year old student from Germany doing fullstack web development and experimenting around with AI and ML stuff.
 
 ## Coding Time Stats
 
@@ -13,10 +13,12 @@ I'm a 15 year old student from Germany doing fullstack web development.
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&labelColor=black&color=%233178C6)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black&color=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&labelColor=black&color=%23000000)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&labelColor=black&color=%235FA04E)
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&labelColor=black&color=%235FA04E) -->
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&labelColor=black&color=%23000000)
 ![Tauri](https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=tauri&labelColor=black&color=%2324C8D8)
+
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&labelColor=black&color=%23FFFFFF)
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&labelColor=black&color=%233776AB)
 
